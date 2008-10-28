@@ -1,5 +1,5 @@
 category: X11
-requires: mkfontdir mkfontscale fontconfig xorg-encodings xorg-font-alias
-sdesc: "Xorg NMSU Computing Research Labs fonts"
-ldesc: "Xorg NMSU Computing Research Labs fonts"
+requires: mkfontdir mkfontscale fontconfig font-encodings font-alias
+sdesc: "X.Org NMSU Computing Research Labs fonts"
+ldesc: "X.Org NMSU Computing Research Labs fonts"
 
